@@ -13,5 +13,11 @@
  # Aula 06
  Introdução aos operadores aritmétrios(Matemática)
 
+ # Aula 07
+ Concatenção, Precedência entre os operadores aritméticos
+
  # Exercícios 02
  Criar e exibir variáveis
+
+ # Exercícios 03
+ Calcular IMC
